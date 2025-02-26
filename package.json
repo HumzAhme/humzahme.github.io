@@ -5,7 +5,7 @@
   "author": "Humza AA <ur@humza.eu>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/HumzAhme/myPortfolio/"
+    "url": "https://github.com/HumzAhme/myportfolio/"
   },
   "keywords": [
     "gatsby"
@@ -77,7 +77,7 @@
     "husky": "^6.0.0",
     "lint-staged": "^10.1.2",
     "prettier": "^2.2.1",
-    "cross-env": "^7.0.3",
+    "cross-env": "^7.0.3"
 
   }
 }
