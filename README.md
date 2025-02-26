@@ -5,7 +5,7 @@
   humza.eu - portfolio
 </h1>
 <p align="center">
-  The fourth iteration of <a href="https://humza.eu" target="_blank">humza.eu</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.humzahme.github.io/myPortfolio" target="_blank">GH Pages</a>
+  The fourth iteration of <a href="https://www.humzahme.github.io/myportfolio" target="_blank">humza.eu</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.humzahme.github.io/myportfolio" target="_blank">PORTFOLIO WEBSITE</a>
 </p>
 <p align="center">
   Previous iterations:
