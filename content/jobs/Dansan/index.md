@@ -3,7 +3,7 @@ date: '2025-05-05'
 title: 'Business Analyst'
 company: 'Dansan LLC'
 location: 'San Ramon, CA'
-range: 'May 2025 - Present'
+range: 'May 2025 - Oct 2025'
 url: 'https://www.amazon.com/sp?ie=UTF8&seller=A12Z6KKS81RGJD'
 ---
 
