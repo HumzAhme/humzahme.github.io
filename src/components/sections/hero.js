@@ -65,10 +65,10 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        A Cybersecurity and Computer Vision specialist leveraging analytical skills and research
-        expertise to innovate secure and intelligent systems. Currently, I’m involved with the{' '}
-        <a href="https://islamabadrunwithus.com/" target="_blank" rel="noreferrer">
-          IRU
+        Passionate working in Geography, GIS & Cybersecurity, leveraging analytical skills and research
+        expertise to innovate secure and intelligent systems. Currently, I’m involved ESDS&RS in the{' '}
+        <a href="https://www.uni-leipzig.de/" target="_blank" rel="noreferrer">
+          Leipzig University
         </a>
         .
       </p>
@@ -77,7 +77,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://www.instagram.com/humzasra"
+      href="https://strava.com/athletes/humzadvent"
       target="_blank"
       rel="noreferrer">
       Check out my Atheletics profile!
