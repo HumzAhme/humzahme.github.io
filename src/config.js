@@ -31,7 +31,7 @@ module.exports = {
     },
     {
       name: 'Certification',
-      url: '/certifications',
+      url: '/archive',
     },
     {
       name: 'Publication',

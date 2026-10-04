@@ -126,9 +126,16 @@ const About = () => {
   }, []);
 
   const skills = [
+    'AI Agents',
+    'Workflow Automation',
+    'CloudCompare',
+    'Git',
+    'Radar Remote Sensing & Hyperspectral Imaging',
+    'LiDAR & Reflectance Spectroscopy',
+    'DaVinci Resolve',
+    'qgis',
     'JavaScript (ES6+)',
-    'Python Libraries',
-    'Python',
+    'Python & Libraries',
     'Linux Terminal',
     'Node.js',
     'Transformers',

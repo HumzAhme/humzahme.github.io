@@ -63,17 +63,23 @@ const Hero = () => {
   const two = <h2 className="big-heading">Humza Asrar A.</h2>;
   const three = <h6 className="medium-heading">Software Engineer</h6>;
   const four = (
-    <>
-      <p>
-        Passionate working in Geography, GIS & Cybersecurity, leveraging analytical skills and research
-        expertise to innovate secure and intelligent systems. Currently, I’m involved ESDS&RS in the{' '}
-        <a href="https://www.uni-leipzig.de/" target="_blank" rel="noreferrer">
-          Leipzig University
-        </a>
-        .
-      </p>
-    </>
-  );
+  <>
+    <p>
+      Passionate about Geography, GIS, and Cybersecurity, leveraging analytical skills and research
+      expertise to develop innovative, secure, and intelligent systems. Currently pursuing an MSc in
+      Earth System Data Science and Remote Sensing (ESDS&RS) at{' '}
+      <a
+        href="https://www.uni-leipzig.de/"
+        target="_blank"
+        rel="noreferrer"
+      >
+        Leipzig University
+      </a>
+      , where I work with geospatial data, remote sensing technologies, and computational methods
+      to address environmental and real-world challenges.
+    </p>
+  </>
+);
   const five = (
     <a
       className="email-link"
