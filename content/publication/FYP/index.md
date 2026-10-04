@@ -1,11 +1,11 @@
 ---
 date: '8'
-title: 'AI-driven Sentiment and Emotional Analysis Framework for Multimedia Content'
+title: 'IntelliSense: A Multimodal Framework for Real-Time Affective and Thematic Analysis of Multimedia Content Using Transformer-based NLP Models' #'AI-driven Sentiment and Emotional Analysis Framework for Multimedia Content'
 #cover: './halcyon.png'
 #github: 'https://github.com/'
-external: './#publication' #external link icon
+external: 'https://journal.50sea.com/' #external link icon
 #cta: './#publication' #learn more button
-overline: 'Journal | in-progress'
+overline: 'International Journal of Innovations in Science & Technology | publication expected in last quarter of 2026'
 tech:
   -
   -

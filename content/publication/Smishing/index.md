@@ -3,9 +3,9 @@ date: '6'
 title: 'Smishing Detection leveraging Bert and Deep Learning Models'
 #cover: './halcyon.png'
 #github: 'https://github.com/'
-external: './#publication' #external link icon
+#external: './#publication' #external link icon
 #cta: './#publication' #learn more button
-overline: 'Journal | in-progress'
+overline: 'Journal | Unpublished / in-progress'
 
 tech:
   -

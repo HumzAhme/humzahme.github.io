@@ -77,7 +77,7 @@ const Footer = () => {
     if (process.env.NODE_ENV !== 'production') {
       return;
     }
-    fetch('https://api.github.com/HumzAhme/myportfolio')
+    fetch('https://api.github.com/HumzAhme/humzahme.github.io')
       .then(response => response.json())
       .then(json => {
         const { stargazers_count, forks_count } = json;
@@ -105,7 +105,7 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://github.com/HumzAhme/myportfolio">
+        <a href="https://github.com/HumzAhme/humzahme.github.io">
           <div>
             Designed &amp; Built with EFFORT
             <span role="img" aria-label="computer keyboard">

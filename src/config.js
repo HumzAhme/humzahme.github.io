@@ -1,5 +1,5 @@
 module.exports = {
-  email: 'ur@humza.eu',
+  email: 'h.ahmed@studserv.uni-leipzig.de', //'ur@humza.eu',
 
   socialMedia: [
     {
@@ -9,10 +9,6 @@ module.exports = {
     {
       name: 'Instagram',
       url: 'https://www.instagram.com/humzasra',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/radareorg',
     },
     {
       name: 'Linkedin',
@@ -35,7 +31,7 @@ module.exports = {
     },
     {
       name: 'Certification',
-      url: '/archive',
+      url: '/certifications',
     },
     {
       name: 'Publication',
