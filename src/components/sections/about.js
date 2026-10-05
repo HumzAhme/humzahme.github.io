@@ -139,6 +139,7 @@ const About = () => {
     'Linux Terminal',
     'Node.js',
     'Transformers',
+    'Machine Learning',
   ];
 
   return (
